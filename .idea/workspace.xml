@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c437b654-4675-458f-9b80-9cea1f4859dc" name="Changes" comment="Adding multiple pages from csv to the PDF file based on the topic">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output.pdf" afterDir="false" />
-    </list>
+    <list default="true" id="c437b654-4675-458f-9b80-9cea1f4859dc" name="Changes" comment="Adding a footer to the pages" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,13 +108,22 @@
       <option name="project" value="LOCAL" />
       <updated>1774123074364</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding a footer to the pages">
+      <option name="closed" value="true" />
+      <created>1774123761094</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1774123761094</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial pdf creator commit" />
     <MESSAGE value="Creating pdf from csv file" />
     <MESSAGE value="Adding multiple pages from csv to the PDF file based on the topic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding multiple pages from csv to the PDF file based on the topic" />
+    <MESSAGE value="Adding a footer to the pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding a footer to the pages" />
   </component>
 </project>

@@ -22,7 +22,8 @@ for index, row in df.iterrows():
 #adding additional pages based on the topic
     for i in range(row['Pages']-1):
         pdf.add_page()
-        pdf.cell(w=0, h=12, txt=row['Topic'], align='L', ln=1)
+        for x in range(20, 280, 10):
+            pdf.line(10, x, 200, x)
         # set the footer
         pdf.ln(265)
         pdf.set_font('Arial', 'B', size=10)
